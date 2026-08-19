@@ -1,5 +1,6 @@
 {
-  "latest_version": "5.9",
-  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v5.9/MangaVoice_Setup.exe",
-  "notes": "Bản đầu tiên"
+  "latest_version": "6.0",
+  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.0/MangaVoice_Setup.exe",
+  "notes": "- sửa chạy vvproj + mux final theo luồng
+            - update thêm render video 60 fps chính xác hơn nhưng chậm hơn "
 }
