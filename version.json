@@ -1,5 +1,5 @@
 {
-  "latest_version": "6.2",
-  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.2/MangaVoice_Setup.exe",
-  "notes": "- Sửa lỗi: chạy nhiều truyện cùng lúc chỉ Truyện 1 được gán giọng tự động, các truyện còn lại báo 'no voice for NARRATOR' và tạo vvproj rỗng.\n- Thêm mới: nút 🧹 Clean (cạnh nút STOP) — xoá toàn bộ file đã tạo ra (vvproj, wav, srt, video...) của các truyện đã load, chỉ giữ lại file kịch bản gốc, để chạy lại từ đầu."
+  "latest_version": "6.3",
+  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.3/MangaVoice_Setup.exe",
+  "notes": "- Sửa lỗi: câu có dấu !/? kiểu bàn phím thường (half-width, không phải ！？ tiếng Nhật) không được nhận diện để tách câu — vvproj và hiển thị Dọc giờ tách đúng tại các dấu này."
 }
