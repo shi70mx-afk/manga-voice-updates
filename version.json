@@ -1,5 +1,5 @@
 {
-  "latest_version": "6.3",
-  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.3/MangaVoice_Setup.exe",
-  "notes": "- Sửa lỗi: câu có dấu !/? kiểu bàn phím thường (half-width, không phải ！？ tiếng Nhật) không được nhận diện để tách câu — vvproj và hiển thị Dọc giờ tách đúng tại các dấu này."
+  "latest_version": "6.4",
+  "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.4/MangaVoice_Setup.exe",
+  "notes": " playwright install chromium, pip install "notebooklm-py[browser]""
 }
