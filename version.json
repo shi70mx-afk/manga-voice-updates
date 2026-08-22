@@ -1,5 +1,5 @@
 {
   "latest_version": "6.4",
   "download_url": "https://github.com/shi70mx-afk/manga-voice-updates/releases/download/v6.4/MangaVoice_Setup.exe",
-  "notes": " playwright install chromium, pip install "notebooklm-py[browser]""
+  "notes": "- Big update: thay hoàn toàn Gemini bằng NotebookLM cho cả prompt ảnh (Tab 1) và gợi ý giọng (Tab 2).\n- Tab 1: dùng NotebookLM report (đầy đủ, không bị thiếu như Gemini trước đây).\n- Tab 2: gộp kịch bản + hướng dẫn + danh sách giọng vào 1 nguồn duy nhất, dùng chat NotebookLM (nhanh, phù hợp output nhỏ).\n- Sửa lỗi: gợi ý giọng bị 'áp dụng 0' do NotebookLM viết mô tả và tên giọng chung 1 dòng.\n- Thêm: đăng nhập NotebookLM 1 lần (không cần lặp lại), tự giữ phiên sống ngầm.\n- Thêm: ô chỉnh số truyện chạy đồng thời trong dialog NotebookLM.\n- Dọn UI: bỏ nút/cấu hình Gemini không còn dùng tới."
 }
